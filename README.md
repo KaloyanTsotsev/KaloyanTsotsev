@@ -1,10 +1,15 @@
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,php,js,java,postgres,mysql,html,css,vscode,с" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,php,js,java,c,postgres,mysql,html,css,vscode" />
 </p>
+
 ## Stats
-<p >
-  <img height="175"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaloyanTsotsev&theme=github_dark&layout=compact&langs_count=6" />
+
+<p align="left">
+  <img
+    height="175"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaloyanTsotsev&theme=github_dark&layout=compact&langs_count=6"
+    alt="Kaloyan's most used languages"
+  />
 </p>
