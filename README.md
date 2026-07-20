@@ -1,1 +1,7 @@
-![Kaloyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaloyanTsotsev&show_icons=true&theme=github_dark)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyanTsotsev&theme=github_dark)
+<p align="center">
+  <img height="180"
+       src="https://github-stats-extended.vercel.app/api?username=KaloyanTsotsev&show_icons=true&theme=github_dark" />
+
+  <img height="180"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaloyanTsotsev&theme=github_dark&layout=compact" />
+</p>
